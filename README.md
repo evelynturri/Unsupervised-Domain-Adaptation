@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/evelynturri/unsupervised-domain-adaptation/blob/main/notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/evelynturri/Unsupervised-Domain-Adaptation/blob/main/notebook.ipynb)
 
 </div>
 
